@@ -1,4 +1,4 @@
-** Learn DITA
+## Learn DITA
 Get started with your DITA learning journey as follows:
 1. Get a license to accessing DITA.
 2. Configure your DITA environment.
